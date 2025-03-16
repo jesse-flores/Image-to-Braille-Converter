@@ -1,9 +1,3 @@
-# Image-to-Braille-Converter
-Convert images into easy to copy-and-paste characters that build it back up
-To create a complete README for your project, you want to provide clear instructions on what the project is, how to set it up, and how to use it. Below is a detailed `README.md` template for your project that includes installation, usage, and explanations.
-
----
-
 # Image to Braille Converter
 
 This project converts images into Braille characters, representing pixel intensity using Braille symbols. It processes an image and converts it into a series of Braille characters based on pixel brightness, using a grid of characters to represent light-to-dark shades.
